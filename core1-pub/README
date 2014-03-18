@@ -1,0 +1,16 @@
+Images in this directory were used by SC29WG1 for the purpose of subjective
+and objective image quality evaluation.
+
+Images in this directory are subsets of the images from other test sets,
+mostly from the Microsoft HDPhoto test set ("hdcompare") and the Honolulu
+Test set by Olivier Pfeiffer. Please see the corresponding directories for
+the licence conditions.
+
+This directory originally also included four additional images for which
+SC29WG1 does not hold sufficient rights to release them. An image of a 
+painting kindfully provided for JPEG internal use by the London Gallery,
+and three well-known images ("bike", "cafe" and "woman") originally stemming
+from the JPEG-LS test image set. Unfortunately, formal attributes of these
+images are unknown at this time, and hence they are currently only available
+for JPEG internal testing.
+
